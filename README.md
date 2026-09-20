@@ -33,7 +33,7 @@ Outside academics, I enjoy competitive programming, game development, playing fo
   <a href="https://www.linkedin.com/in/kuldeep1709/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:kuldeepjatav@iisc.ac.in">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/Kuldeep17.09/">
