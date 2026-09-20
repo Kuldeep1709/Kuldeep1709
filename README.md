@@ -45,3 +45,13 @@ Outside academics, I enjoy competitive programming, game development, playing fo
 </p>
 
 ---
+
+<p align="center">
+  <img src="images/consistency.png" alt="Consistency is the key">
+</p>
+
+<p align="center">
+  <i>"Small steps every day lead to big results."</i>
+</p>
+
+---
