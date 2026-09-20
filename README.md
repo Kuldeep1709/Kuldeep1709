@@ -1,5 +1,5 @@
 # Hello, I'm Kuldeep 
-> I can code without AI and obviously with AI
+> I code without AI and obviously can with AI
 
 I'm a final year B.Tech. Mathematics and Computing student at the Indian Institute of Science.
 
