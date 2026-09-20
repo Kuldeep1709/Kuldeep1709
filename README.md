@@ -47,7 +47,7 @@ Outside academics, I enjoy competitive programming, game development, playing fo
 ---
 
 <p align="center">
-  <img src="images/consistency.png" alt="Consistency is the key">
+  <img src="Leetcode_Consistency.png" alt="Consistency is the key">
 </p>
 
 <p align="center">
